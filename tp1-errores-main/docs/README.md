@@ -4,7 +4,7 @@ tp Integrador -errores
 Integrantes
 Gestion de Sofware
 Profesor: Francisco Varberde
-Alumnos: Emanuel Ortiz, Matias Martinez, Dario Sinatra
+Alumnos: Emanuel Ortiz, Matias Martinez, Dario Sinatra y Carla Bustos
 
 ---
 ## 🚀 Mejoras Implementadas (Puntos Extra)
